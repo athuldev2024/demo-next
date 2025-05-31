@@ -1,0 +1,12 @@
+# Ignore dependencies and build artifacts
+demo/node_modules
+demo/.next
+demo/out
+demo/build
+
+# Ignore test coverage
+demo/coverage
+
+# Ignore local env files
+demo/.env.local
+demo/.env.*
